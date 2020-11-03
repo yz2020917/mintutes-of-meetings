@@ -1,3 +1,4 @@
 A Survey of Physics-Based Attack Detection in Cyber-Physical Systems
 Once-for-All- Train One Network and Specialize it for Efficient Deployment
 DEEP COMPRESSION: COMPRESSING DEEP NEURAL NETWORKS WITH PRUNING, TRAINED QUANTIZATION AND HUFFMAN CODING
+Learning both Weights and Connections for Efficient Neural Networks
