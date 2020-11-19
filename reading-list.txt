@@ -4,3 +4,4 @@ DEEP COMPRESSION: COMPRESSING DEEP NEURAL NETWORKS WITH PRUNING, TRAINED QUANTIZ
 Learning both Weights and Connections for Efficient Neural Networks
 深度网络模型压缩综述
 面向嵌入式应用的深度神经网络模型压缩技术综述
+Distilling the Knowledge in a Neural Network
