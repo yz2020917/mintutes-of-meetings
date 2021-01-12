@@ -16,7 +16,7 @@
 
 #### 实验
 
-20-1-6 分别使用CNN，LSTM hidden  、convLSTM 取6类作训练集，4类当测试集进行实验。
+20-1-6 分别使用CNN，   LSTM hidden       、convLSTM 取6类作训练集，4类当测试集进行实验。123
 
 #### Deadline
 
