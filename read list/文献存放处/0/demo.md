@@ -2,19 +2,17 @@
 
 
 
-
-
-
-
 # Data 
 
-## Aim
+## Aim/Innovation Point
 
 
 
+## Motivation
 
 
 
+## Contribution
 
 
 
@@ -24,19 +22,7 @@
 
 
 
-
-
-
-
-
-
 ## Background
-
-
-
-
-
-
 
 
 
